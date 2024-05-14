@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Banti9/weather.git/static/css/main.1df337cb.css",
+    "main.js": "/Banti9/weather.git/static/js/main.0fe24915.js",
+    "static/js/453.97127cc3.chunk.js": "/Banti9/weather.git/static/js/453.97127cc3.chunk.js",
+    "index.html": "/Banti9/weather.git/index.html",
+    "main.1df337cb.css.map": "/Banti9/weather.git/static/css/main.1df337cb.css.map",
+    "main.0fe24915.js.map": "/Banti9/weather.git/static/js/main.0fe24915.js.map",
+    "453.97127cc3.chunk.js.map": "/Banti9/weather.git/static/js/453.97127cc3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1df337cb.css",
+    "static/js/main.0fe24915.js"
+  ]
+}
